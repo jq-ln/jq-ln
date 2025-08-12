@@ -1,6 +1,6 @@
-## 👋 Hello  🌍, my name is Jacqueline!👨‍💻  
+## 👋 Hello, my name is Jacqueline  
 
-### 🚀 Rabbitory App
+### Rabbitory App
 
 
 ## 🛠️ Technologies and Tools I have experience in:
